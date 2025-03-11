@@ -18,7 +18,7 @@ This repository contains a Power BI project showcasing various analytical and vi
 9. **Finance Dashboard** - Created an interactive dashboard with navigation, slicers, KPIs, and external links.
 
 ## 📂 Files Included
-- `PowerBI-Assignment.pbix` - The Power BI project file containing all visualizations.
+- `Power_BI_Assignment.pbix` - The Power BI project file containing all visualizations.
 - `README.md` - Documentation for the project.
 
 ## 📌 Dataset References
